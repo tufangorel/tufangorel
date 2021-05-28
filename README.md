@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tufangorel
-- 👀 I’m interested in SpringBoot, Java, JVM and K8s
+- 👀 I’m interested in SpringBoot, Java/C++, JVM and K8s
 - 🌱 I’m currently learning Openshift
 - 💞️ I’m looking to collaborate on cloud-native application development
 - 📫 How to reach me at :  "tufang AT gmail.com"
