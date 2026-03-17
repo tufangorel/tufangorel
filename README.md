@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Openshift 
 - 📫 How to reach me at :  "tufang AT gmail.com"
 - https://www.linkedin.com/in/tufangorel/
-- 
+- Tufan Görel Resume.pdf
 
 <!---
 tufangorel/tufangorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
