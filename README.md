@@ -2,6 +2,8 @@
 - 👀 I’m interested in SpringBoot, Java/C++, JVM and K8s
 - 🌱 I’m currently learning Openshift 
 - 📫 How to reach me at :  "tufang AT gmail.com"
+- https://www.linkedin.com/in/tufangorel/
+- 
 
 <!---
 tufangorel/tufangorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
