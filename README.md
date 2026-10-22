@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tufangorel
 - 👀 I’m interested in SpringBoot, Java/C++, JVM and K8s
-- 🌱 I’m currently learning Openshift 
+- 🌱 I’m currently learning Agentic AI Software Development
 - 📫 How to reach me at :  "tufang AT gmail.com"
 -  https://www.linkedin.com/in/tufangorel/
 - [Tufan Görel Resume.pdf (github url)](https://github.com/tufangorel/tufangorel/blob/main/Tufan%20G%C3%B6rel%20Resume.pdf)
